@@ -26,3 +26,9 @@ color: gray;
 font-size: 16px;
 columns: aquamarine;
 }
+/*footer*/
+.footer--copyright{
+    font-size: 21px;
+    columns: grey;
+    text-align: right;
+    }
